@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.module_name      = "glm"
   s.version          = "0.9.7.5"
   s.summary          = "OpenGL Mathematics"
-  s.description      = <<-DESC OpenGL Mathematics is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language specifications. DESC
+  s.description      = "DESC OpenGL Mathematics is a header only C++ mathematics library for graphics software based on the OpenGL Shading Language specifications. DESC"
   s.homepage         = "http://glm.g-truc.net"
   s.license          = {:type => 'MIT', :file => 'copying.txt' }
   s.authors          = { "Christophe Riccio" => "glm@g-truc.net"}
